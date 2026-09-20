@@ -1,7 +1,7 @@
 # CDE2313 Mobile Application Development — GitHub Learning Portfolio
 
 **Student:** Mohammad Shaheen  
-**Student ID:** `ADD-STUDENT-ID`  
+**Student ID:** `AIU23102321`  
 **Programme:** Bachelor of Computer Science (Cyber Security)  
 **Course:** CDE2313 Mobile Application Development  
 **Academic Session:** 2025/2026  
