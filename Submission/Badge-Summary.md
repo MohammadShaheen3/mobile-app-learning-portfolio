@@ -1,7 +1,7 @@
 # CDE2313 Lab Exercises — Submission Summary
 
 **Student:** Mohammad Shaheen  
-**Student ID:** `ADD-STUDENT-ID`  
+**Student ID:** `AIU23102321`  
 **GitHub Repository URL:** https://github.com/MohammadShaheen3/mobile-app-learning-portfolio  
 **Android Developer Profile URL:** `ADD-ANDROID-DEVELOPER-PROFILE-URL`
 
@@ -22,4 +22,4 @@
 | 11 | Navigation in Jetpack Compose | Add profile screenshot |
 | 12 | Adapt for different screen sizes | Add profile screenshot |
 
-This file is the source for the final Moodle PDF. Replace both URL placeholders and attach authentic badge evidence before export.
+This file is the source for the final Moodle PDF. Replace the Android Developer Profile URL placeholder and attach authentic badge evidence before export.
