@@ -81,7 +81,7 @@ fun BusinessCardScreen(modifier: Modifier = Modifier) {
         HorizontalDivider()
         ContactRow(label = "Email", value = "student@example.com")
         HorizontalDivider()
-        ContactRow(label = "GitHub", value = "github.com/your-username")
+        ContactRow(label = "GitHub", value = "github.com/MohammadShaheen3")
         HorizontalDivider()
         ContactRow(label = "Focus", value = "Kotlin • Jetpack Compose")
         HorizontalDivider()
