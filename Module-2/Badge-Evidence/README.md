@@ -1,9 +1,9 @@
-# Badge Evidence
+# Badge Evidence — Module 2
 
-Add screenshots from your own Android Developers profile after completing each pathway quiz.
+**Public Google Developer Profile:** https://me.developers.google.com/u/101150057478662202271
 
-- `04-kotlin-fundamentals.png` — Kotlin fundamentals
-- `05-dice-roller.png` — Add a button to an app
-- `06-ui-and-state.png` — Interacting with UI and state
+Badge achievements for this portfolio are verified through the student's authentic public Google Developer profile and the profile screenshot captured on **26 September 2026**.
 
-The repository documentation references these exact filenames.
+Shared screenshot location:
+
+`Module-1/Badge-Evidence/Google-Developer-Profile-Badges-2026-09-26.png`
