@@ -1,0 +1,26 @@
+name: Unpack screenshot evidence
+
+on:
+  push:
+    paths:
+      - 'evidence-bundle.zip'
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack evidence
+        run: unzip -o evidence-bundle.zip -d .
+      - name: Commit screenshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Module-1/Screenshots Module-2/Screenshots Module-3/Screenshots Module-4/Screenshots
+          git rm evidence-bundle.zip
+          git commit -m "Add verified Android module screenshot evidence"
+          git push
