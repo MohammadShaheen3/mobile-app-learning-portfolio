@@ -6,14 +6,14 @@
 **Course:** CDE2313 Mobile Application Development  
 **Academic Session:** 2025/2026  
 **Lecturer:** Ts Mohd Zulkifli Mohd Zaki  
-**Android Developer Profile:** `ADD-ANDROID-DEVELOPER-PROFILE-URL`  
+**Android Developer Profile:** https://me.developers.google.com/u/101150057478662202271  
 **GitHub Repository:** https://github.com/MohammadShaheen3/mobile-app-learning-portfolio
 
 ## Assessment Overview
 
-This repository is an individual Android learning portfolio organized around four consecutive units from the official **Android Basics with Compose** course. The portfolio combines practical source code, evidence folders, technical analysis, reflection, and version-control history.
+This repository is an individual Android learning portfolio organized around four consecutive units from the official **Android Basics with Compose** course. The portfolio combines practical source code, screenshots, learning notes, technical analysis, reflection, badge evidence, and version-control history.
 
-The four selected modules create a clear learning progression: foundational Kotlin and Compose, interactive UI and state, lists and Material Design, then navigation and app architecture. This sequence also provides twelve pathway quizzes/badge opportunities, exceeding the assessment minimum of ten badges once the quizzes are completed on the Android Developers learning platform.
+The four selected modules create a clear learning progression: foundational Kotlin and Compose, interactive UI and state, lists and Material Design, then navigation and app architecture. Android Developer learning achievements are documented through the student's public Google Developer profile and badge evidence.
 
 ## Selected Learning Modules
 
@@ -59,28 +59,32 @@ mobile-app-learning-portfolio/
 └── RUN_AND_CAPTURE_GUIDE.md
 ```
 
-## Badge Summary
+## Badge Evidence Summary
 
-| # | Badge | Module | Evidence |
-|---:|---|---|---|
-| 1 | Introduction to Kotlin | 1 | `Module-1/Badge-Evidence/01-programming-in-kotlin.png` |
-| 2 | Setup Android Studio | 1 | `Module-1/Badge-Evidence/02-android-studio.png` |
-| 3 | Build a basic layout | 1 | `Module-1/Badge-Evidence/03-build-basic-layout.png` |
-| 4 | Kotlin fundamentals | 2 | `Module-2/Badge-Evidence/04-kotlin-fundamentals.png` |
-| 5 | Add a button to an app | 2 | `Module-2/Badge-Evidence/05-dice-roller.png` |
-| 6 | Interacting with UI and state | 2 | `Module-2/Badge-Evidence/06-ui-and-state.png` |
-| 7 | More Kotlin fundamentals | 3 | `Module-3/Badge-Evidence/07-more-kotlin-fundamentals.png` |
-| 8 | Build a scrollable list | 3 | `Module-3/Badge-Evidence/08-scrollable-list.png` |
-| 9 | Build beautiful apps | 3 | `Module-3/Badge-Evidence/09-build-beautiful-apps.png` |
-| 10 | Architecture Components | 4 | `Module-4/Badge-Evidence/10-architecture-components.png` |
-| 11 | Navigation in Jetpack Compose | 4 | `Module-4/Badge-Evidence/11-navigation-compose.png` |
-| 12 | Adapt for different screen sizes | 4 | `Module-4/Badge-Evidence/12-adaptive-layouts.png` |
+The public Google Developer profile is available at:
 
-> Badge image files must be screenshots from the student's own Android Developers profile after completing the relevant quizzes. Do not replace them with mock evidence.
+**https://me.developers.google.com/u/101150057478662202271**
+
+The submitted profile evidence captured on **26 September 2026** displays the following 10 badge cards:
+
+| # | Badge shown on profile |
+|---:|---|
+| 1 | Learning |
+| 2 | Basics of Kotlin Multiplatform... |
+| 3 | Make your Android app accessible |
+| 4 | Modern Android App Architecture badge |
+| 5 | Compose essentials |
+| 6 | Build a Basic Layout |
+| 7 | Set up Android Studio |
+| 8 | First Learning Pathway and Quiz... |
+| 9 | Introduction to programming in Kotlin |
+| 10 | Joined the Google Developer Program |
+
+> The public profile is the authoritative source for current badge status. Badge screenshots must remain authentic evidence from the student's own account.
 
 ## GitHub Portfolio Overview
 
-The repository is structured so that each module contains implementation code, screenshots, badge evidence, concise learning notes, and a separate analysis. The Android source is configured as a multi-module Gradle project, so the repository root can be opened directly in Android Studio and each application module can be selected and run independently.
+The repository is structured so that each module contains implementation code, screenshots, badge-evidence documentation, concise learning notes, and a separate analysis. The Android source is configured as a multi-module Gradle project, so the repository root can be opened directly in Android Studio and each application module can be selected and run independently.
 
 ## Reflection Summary
 
@@ -88,7 +92,7 @@ Across the four modules, the implementation moves from simple declarative UI tow
 
 ## AI Use Disclosure
 
-AI assistance was used to support code drafting, documentation structure, language refinement, and debugging during development of this portfolio. The final repository should be reviewed, run, and understood by the student before submission, and all badge/profile/screenshots must be authentic evidence from the student’s own account and Android Studio environment.
+AI assistance was used as a learning-support tool for concept clarification, debugging, documentation organization, and language refinement. The student remains responsible for understanding and explaining the submitted work. Badge/profile evidence and application screenshots are authentic evidence from the student's own accounts and development environment.
 
 ## Official Learning Source
 
