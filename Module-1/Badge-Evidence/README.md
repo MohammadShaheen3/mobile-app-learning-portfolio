@@ -1,9 +1,11 @@
-# Badge Evidence
+# Badge Evidence — Module 1
 
-Add screenshots from your own Android Developers profile after completing each pathway quiz.
+**Public Google Developer Profile:** https://me.developers.google.com/u/101150057478662202271
 
-- `01-programming-in-kotlin.png` — Introduction to Kotlin
-- `02-android-studio.png` — Setup Android Studio
-- `03-build-basic-layout.png` — Build a basic layout
+The student's authentic Google Developer badge evidence was captured on **26 September 2026**.
 
-The repository documentation references these exact filenames.
+Repository evidence image:
+
+`Google-Developer-Profile-Badges-2026-09-26.png`
+
+The same public profile is the authoritative source for current badge status. The evidence image must be the student's real profile screenshot, not a recreated or mock image.
