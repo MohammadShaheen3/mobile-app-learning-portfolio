@@ -1,9 +1,9 @@
-# Badge Evidence
+# Badge Evidence — Module 3
 
-Add screenshots from your own Android Developers profile after completing each pathway quiz.
+**Public Google Developer Profile:** https://me.developers.google.com/u/101150057478662202271
 
-- `07-more-kotlin-fundamentals.png` — More Kotlin fundamentals
-- `08-scrollable-list.png` — Build a scrollable list
-- `09-build-beautiful-apps.png` — Build beautiful apps
+Badge achievements for this portfolio are verified through the student's authentic public Google Developer profile and the profile screenshot captured on **26 September 2026**.
 
-The repository documentation references these exact filenames.
+Shared screenshot location:
+
+`Module-1/Badge-Evidence/Google-Developer-Profile-Badges-2026-09-26.png`
